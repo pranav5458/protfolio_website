@@ -1,4 +1,4 @@
-<img width="1366" height="768" alt="Screenshot(65)" src="https://github.com/user-attachments/assets/bc530367-e469-4d97-943c-5e22a4ce0f62" /># 🌐 Personal Portfolio Website
+<img width="1366" height="768" alt="Screenshot" src="https://github.com/user-attachments/assets/bc530367-e469-4d97-943c-5e22a4ce0f62" /># 🌐 Personal Portfolio Website
 
 A modern, responsive personal portfolio website built using **HTML5** and **CSS3** to showcase my skills, projects, and contact information.
 
@@ -66,7 +66,7 @@ Currently learning React.js to build reusable components and modern single-page 
 
 ## 📸 Preview
 
-<img width="100%" src="screenshot(65)">
+<img width="100%" src="screenshot">
 
 
 
