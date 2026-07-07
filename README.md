@@ -66,7 +66,7 @@ Currently learning React.js to build reusable components and modern single-page 
 
 ## 📸 Preview
 
-<img width="100%" src="screenshot.png">
+<img width="100%" src="screenshot(65)">
 
 
 
